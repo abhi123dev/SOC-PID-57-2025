@@ -14,4 +14,10 @@
 - Practiced problems of above topics
 
 ### Week 4 – Introduction to React  
-- Set up a React project using Vite  
+- Set up a React project using Vite
+- Created a Dice game using reusable components and props
+
+### Week 5 - Talwind And React
+- Learned about Talwind
+- Created an e-commerce website (only frontend) using React Vite and Tailwind CSS
+
