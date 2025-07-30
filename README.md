@@ -21,3 +21,9 @@
 - Learned about Talwind
 - Created an e-commerce website (only frontend) using React Vite and Tailwind CSS
 
+### Week 6 - Backend Development and  User Authentication
+- Built Express servers with MongoDB integration using Mongoose
+- Implemented RESTful APIs for data management
+- Added secure login/signup functionality with MongoDB
+
+
